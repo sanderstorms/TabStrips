@@ -5,4 +5,5 @@
 *.user
 *.resharper
 _ReSharper.*
+.vs/
 
